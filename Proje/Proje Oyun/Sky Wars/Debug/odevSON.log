@@ -1,0 +1,19 @@
+﻿  Bomb.cpp
+C:\Users\Emre\OneDrive - boun.edu.tr\Ders Kitaplarım\IE\IE 201 C++\Proje\Proje Oyun\Sky Wars\Bomb.cpp(5): warning C4309: 'argument': truncation of constant value
+C:\Users\Emre\OneDrive - boun.edu.tr\Ders Kitaplarım\IE\IE 201 C++\Proje\Proje Oyun\Sky Wars\Bomb.cpp(16): warning C4309: 'argument': truncation of constant value
+  Bullet.cpp
+  Console.cpp
+  Manager.cpp
+  odevSON.cpp
+  Plane.cpp
+  Normal.cpp
+  Jet.cpp
+  Shots.cpp
+  Soldier.cpp
+C:\Users\Emre\OneDrive - boun.edu.tr\Ders Kitaplarım\IE\IE 201 C++\Proje\Proje Oyun\Sky Wars\Soldier.cpp(26): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Emre\OneDrive - boun.edu.tr\Ders Kitaplarım\IE\IE 201 C++\Proje\Proje Oyun\Sky Wars\Soldier.cpp(31): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Emre\OneDrive - boun.edu.tr\Ders Kitaplarım\IE\IE 201 C++\Proje\Proje Oyun\Sky Wars\Soldier.cpp(42): warning C4309: 'argument': truncation of constant value
+C:\Users\Emre\OneDrive - boun.edu.tr\Ders Kitaplarım\IE\IE 201 C++\Proje\Proje Oyun\Sky Wars\Soldier.cpp(47): warning C4309: 'argument': truncation of constant value
+  Generating Code...
+Bomb.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  odevSON.vcxproj -> C:\Users\Emre\OneDrive - boun.edu.tr\Ders Kitaplarım\IE\IE 201 C++\Proje\Proje Oyun\Sky Wars\.\Debug\odevSON.exe
