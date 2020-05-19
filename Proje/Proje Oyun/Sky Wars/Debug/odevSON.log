@@ -1,19 +1,23 @@
-﻿  Bomb.cpp
-C:\Users\Emre\OneDrive - boun.edu.tr\Ders Kitaplarım\IE\IE 201 C++\Proje\Proje Oyun\Sky Wars\Bomb.cpp(5): warning C4309: 'argument': truncation of constant value
-C:\Users\Emre\OneDrive - boun.edu.tr\Ders Kitaplarım\IE\IE 201 C++\Proje\Proje Oyun\Sky Wars\Bomb.cpp(16): warning C4309: 'argument': truncation of constant value
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(441,5): warning MSB8003: The WindowsSDKDir property is not defined. Some build tools may not be found.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (.\Debug\) contains files shared from another project (SkyWars.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bomb.cpp
+D:\GitHub\Sky-Wars\Proje\Proje Oyun\Sky Wars\console.h(4,10): fatal error C1083: Cannot open include file: 'conio.h': No such file or directory
   Bullet.cpp
+D:\GitHub\Sky-Wars\Proje\Proje Oyun\Sky Wars\console.h(4,10): fatal error C1083: Cannot open include file: 'conio.h': No such file or directory
   Console.cpp
+D:\GitHub\Sky-Wars\Proje\Proje Oyun\Sky Wars\console.h(4,10): fatal error C1083: Cannot open include file: 'conio.h': No such file or directory
   Manager.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\yvals.h(12,10): fatal error C1083: Cannot open include file: 'crtdbg.h': No such file or directory
   odevSON.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\yvals.h(12,10): fatal error C1083: Cannot open include file: 'crtdbg.h': No such file or directory
   Plane.cpp
+D:\GitHub\Sky-Wars\Proje\Proje Oyun\Sky Wars\Plane.cpp(2,10): fatal error C1083: Cannot open include file: 'math.h': No such file or directory
   Normal.cpp
+D:\GitHub\Sky-Wars\Proje\Proje Oyun\Sky Wars\console.h(4,10): fatal error C1083: Cannot open include file: 'conio.h': No such file or directory
   Jet.cpp
+D:\GitHub\Sky-Wars\Proje\Proje Oyun\Sky Wars\console.h(4,10): fatal error C1083: Cannot open include file: 'conio.h': No such file or directory
   Shots.cpp
+D:\GitHub\Sky-Wars\Proje\Proje Oyun\Sky Wars\Console.h(4,10): fatal error C1083: Cannot open include file: 'conio.h': No such file or directory
   Soldier.cpp
-C:\Users\Emre\OneDrive - boun.edu.tr\Ders Kitaplarım\IE\IE 201 C++\Proje\Proje Oyun\Sky Wars\Soldier.cpp(26): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
-C:\Users\Emre\OneDrive - boun.edu.tr\Ders Kitaplarım\IE\IE 201 C++\Proje\Proje Oyun\Sky Wars\Soldier.cpp(31): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
-C:\Users\Emre\OneDrive - boun.edu.tr\Ders Kitaplarım\IE\IE 201 C++\Proje\Proje Oyun\Sky Wars\Soldier.cpp(42): warning C4309: 'argument': truncation of constant value
-C:\Users\Emre\OneDrive - boun.edu.tr\Ders Kitaplarım\IE\IE 201 C++\Proje\Proje Oyun\Sky Wars\Soldier.cpp(47): warning C4309: 'argument': truncation of constant value
+D:\GitHub\Sky-Wars\Proje\Proje Oyun\Sky Wars\console.h(4,10): fatal error C1083: Cannot open include file: 'conio.h': No such file or directory
   Generating Code...
-Bomb.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  odevSON.vcxproj -> C:\Users\Emre\OneDrive - boun.edu.tr\Ders Kitaplarım\IE\IE 201 C++\Proje\Proje Oyun\Sky Wars\.\Debug\odevSON.exe
