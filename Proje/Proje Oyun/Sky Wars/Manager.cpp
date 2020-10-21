@@ -5,6 +5,7 @@
 #define SpeedChange 0.1
 #define Slowest 0.1
 #define Fastest 2
+#define MaxBullets 4
 
 #include "manager.h"
 
@@ -20,8 +21,8 @@ Manager::Manager()
 		MyPlanes[h] = NULL;
 	}
 
-	MyBlts = new Bullet*[4];
-	for (int i = 0; i < 5; i++) {
+	MyBlts = new Bullet*[MaxBullets];
+	for (int i = 0; i < MaxBullets; i++) {
 		MyBlts[i] = NULL;
 	}
 
